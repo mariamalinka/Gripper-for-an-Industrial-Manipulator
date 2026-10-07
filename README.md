@@ -55,9 +55,8 @@ The gripper picks up a steel shaft at its starting position, holds it securely w
 
 | File | Description |
 |---|---|
-| `gripper_report_EN.md` | Full report translated into English |
-| `gripper_report_EN.pdf` | The same English report as a PDF |
 | `chwytak_mariamalinka.pdf` | Original report in Polish |
+| `gripper_report_EN.pdf` | The same English report as a PDF |
 | `images/` | Figures from the report and the photo of the 3D-printed prototype |
 
 ## Tools
